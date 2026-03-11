@@ -1,12 +1,12 @@
-# Allan Trachtenberg
+# Allan Trachtenberg 🌐
 
 Software Developer | DevOps | Cloud Infrastructure | AI Systems
 
-## About
+## About 👋
 
 Building reliable systems, automation pipelines, and AI integrated applications.
 
-## Technical Skills
+## Technical Skills ⚡
 
 ### Programming
 Python  
@@ -32,7 +32,7 @@ Infrastructure troubleshooting
 
 ---
 
-## Contact
+## Contact 📞
 
 LinkedIn  
 https://www.linkedin.com/in/atrachtenberg/
